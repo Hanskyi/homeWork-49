@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "bueild": "tsc",
+    "build": "tsc",
     "board": "node board.ts"
   },
   "keywords": [],
